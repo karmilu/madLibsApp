@@ -4,3 +4,19 @@ console.log(originalStory);
 
 // Total questions
   let questionTotal = 7;
+
+// User Prompts
+let userInputs = [];
+for (let i = questionTotal; i >= 0; i--) {
+    console.log(
+      questionArray[questionCounter] + `... (${questionTotal} questions left)`
+    );
+    userInputs.push(
+      prompt(
+        questionArray[questionCounter] + `... (${questionTotal} questions left)`
+      )
+    );
+    console.log(userInputs);
+    questionCounter++;
+    questionTotal--;
+  }
