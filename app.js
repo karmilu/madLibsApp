@@ -32,3 +32,8 @@ for (let i = questionTotal; i >= 0; i--) {
     `${solicitation} verb (past tense)`,
     `${solicitation} place noun`,
   ];
+
+// Alert
+ alert(
+    "All done! Ready for your totally-accurate, not-at-all confusing story??"
+  );
