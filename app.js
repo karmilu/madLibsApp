@@ -25,4 +25,5 @@ for (let i = questionTotal; i >= 0; i--) {
   let solicitation = `Please enter a`;
   let questionArray = [
     `${solicitation} animal noun ("horse", "mouse" etc)`,
+    `${solicitation} different animal noun`,
   ];
