@@ -27,4 +27,5 @@ for (let i = questionTotal; i >= 0; i--) {
     `${solicitation} animal noun ("horse", "mouse" etc)`,
     `${solicitation} different animal noun`,
     `${solicitation} adjective ("quickly", "amazingly" etc)`,
+    `${solicitation} verb (infinitive form)`,
   ];
