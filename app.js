@@ -29,4 +29,5 @@ for (let i = questionTotal; i >= 0; i--) {
     `${solicitation} adjective ("quickly", "amazingly" etc)`,
     `${solicitation} verb (infinitive form)`,
     `${solicitation} noun`,
+    `${solicitation} verb (past tense)`,
   ];
