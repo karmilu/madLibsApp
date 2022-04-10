@@ -20,3 +20,9 @@ for (let i = questionTotal; i >= 0; i--) {
     questionCounter++;
     questionTotal--;
   }
+
+// Variable Solicitations:
+  let solicitation = `Please enter a`;
+  let questionArray = [
+    `${solicitation} animal noun ("horse", "mouse" etc)`,
+  ];
