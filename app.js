@@ -26,4 +26,5 @@ for (let i = questionTotal; i >= 0; i--) {
   let questionArray = [
     `${solicitation} animal noun ("horse", "mouse" etc)`,
     `${solicitation} different animal noun`,
+    `${solicitation} adjective ("quickly", "amazingly" etc)`,
   ];
